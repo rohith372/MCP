@@ -27,6 +27,9 @@ cd <https://github.com/rohith372/MCP>
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+uv add langchain-groq
+uv add langchain-openai
+uv add mcp-use
 ```
 
 3. Create a `.env` file in the project root and add your API keys:

@@ -20,8 +20,8 @@ This is an interactive chat application that uses the Model Control Protocol (MC
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/rohith372/MCP>
+cd <https://github.com/rohith372/MCP>
 ```
 
 2. Install the required dependencies:
